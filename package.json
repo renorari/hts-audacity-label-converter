@@ -1,0 +1,11 @@
+{
+  "name": "hts-audacity-label-converter",
+  "version": "1.0.0",
+  "description": "HTS-Label2AudacityLabel",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Renorari",
+  "license": "MIT"
+}
